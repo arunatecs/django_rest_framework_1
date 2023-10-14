@@ -1,0 +1,8 @@
+Django==4.0
+psycopg2-binary
+Django
+#djangorestframework==3.14.0
+#django-audit-fields
+#django-cors-headers==3.13.0
+#djangorestframework-simplejwt==5.2.2
+#django-filter==22.1
